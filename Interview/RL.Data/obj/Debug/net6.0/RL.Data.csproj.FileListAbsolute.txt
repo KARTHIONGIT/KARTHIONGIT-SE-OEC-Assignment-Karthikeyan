@@ -1,0 +1,15 @@
+C:\Users\ash44\Downloads\Original git source\seAssignment-master\seAssignment-master\Interview\RL.Data\bin\Debug\net6.0\ProcedureSeedData.csv
+C:\Users\ash44\Downloads\Original git source\seAssignment-master\seAssignment-master\Interview\RL.Data\bin\Debug\net6.0\RL.Data.deps.json
+C:\Users\ash44\Downloads\Original git source\seAssignment-master\seAssignment-master\Interview\RL.Data\bin\Debug\net6.0\RL.Data.runtimeconfig.json
+C:\Users\ash44\Downloads\Original git source\seAssignment-master\seAssignment-master\Interview\RL.Data\bin\Debug\net6.0\RL.Data.dll
+C:\Users\ash44\Downloads\Original git source\seAssignment-master\seAssignment-master\Interview\RL.Data\bin\Debug\net6.0\RL.Data.pdb
+C:\Users\ash44\Downloads\Original git source\seAssignment-master\seAssignment-master\Interview\RL.Data\obj\Debug\net6.0\RL.Data.csproj.AssemblyReference.cache
+C:\Users\ash44\Downloads\Original git source\seAssignment-master\seAssignment-master\Interview\RL.Data\obj\Debug\net6.0\RL.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ash44\Downloads\Original git source\seAssignment-master\seAssignment-master\Interview\RL.Data\obj\Debug\net6.0\RL.Data.AssemblyInfoInputs.cache
+C:\Users\ash44\Downloads\Original git source\seAssignment-master\seAssignment-master\Interview\RL.Data\obj\Debug\net6.0\RL.Data.AssemblyInfo.cs
+C:\Users\ash44\Downloads\Original git source\seAssignment-master\seAssignment-master\Interview\RL.Data\obj\Debug\net6.0\RL.Data.csproj.CoreCompileInputs.cache
+C:\Users\ash44\Downloads\Original git source\seAssignment-master\seAssignment-master\Interview\RL.Data\obj\Debug\net6.0\RL.Data.dll
+C:\Users\ash44\Downloads\Original git source\seAssignment-master\seAssignment-master\Interview\RL.Data\obj\Debug\net6.0\refint\RL.Data.dll
+C:\Users\ash44\Downloads\Original git source\seAssignment-master\seAssignment-master\Interview\RL.Data\obj\Debug\net6.0\RL.Data.pdb
+C:\Users\ash44\Downloads\Original git source\seAssignment-master\seAssignment-master\Interview\RL.Data\obj\Debug\net6.0\RL.Data.genruntimeconfig.cache
+C:\Users\ash44\Downloads\Original git source\seAssignment-master\seAssignment-master\Interview\RL.Data\obj\Debug\net6.0\ref\RL.Data.dll
