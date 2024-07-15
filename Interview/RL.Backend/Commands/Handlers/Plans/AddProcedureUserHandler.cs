@@ -1,4 +1,5 @@
-﻿using MediatR;
+using MediatR;
+using RL.Backend.Exceptions;
 using RL.Backend.Models;
 using RL.Data;
 using RL.Data.DataModels;
@@ -18,6 +19,14 @@ namespace RL.Backend.Commands.Handlers.Plans
         {
             try
             {
+                //Validate request
+                if (request.PlanId < 1)
+                    return ApiResponse<Unit>.Fail(new BadRequestException("Invalid PlanId"));
+                if (request.ProcedureId < 1)
+                    return ApiResponse<Unit>.Fail(new BadRequestException("Invalid ProcedureId"));
+                if (request.UserId < 1)
+                    return ApiResponse<Unit>.Fail(new BadRequestException("Invalid UserId"));
+
                 var procUsers = new ProcedureUser()
                 {
                     PlanId = request.PlanId,
